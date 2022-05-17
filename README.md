@@ -5,6 +5,11 @@ O Objetivo da disciplina é o de **aprofundar os conceitos de desenvolvimento de
 
 A construção das aplicações irá seguir as boas práticas e os padrões voltados para desenvolvimento de aplicações web.
 
+## ☕ Organização
+
+Cada aula estará organizada em uma **branch**. Serão postadas os conteúdos, slides, exercícios e demais recursos vistos em aula. 
+
+
 ## 🤝 Contribuição
 
 Projeto aberto para ajuda!
